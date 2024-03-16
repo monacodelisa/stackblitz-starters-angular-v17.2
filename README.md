@@ -1,4 +1,5 @@
-# AngularV172
+# Angular v17.2
+## [Stackblitz Starter with SCSS](https://stackblitz.com/edit/stackblitz-starters-monacodelisa)
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.2.2.
 
